@@ -1,0 +1,23 @@
+ITEM_CODE,PRIORITY,CATEGORY,RECOMMENDATION,IMPACT
+1HC0027512P0001,HIGH,DEMAND,"Expedite production - 416.0 units pending, 13.9% fulfilled",Customer satisfaction & revenue
+1HSB445422-B_R0E,HIGH,DEMAND,"Expedite production - 853.0 units pending, 9.5% fulfilled",Customer satisfaction & revenue
+HE70P21Z42161,HIGH,DEMAND,"Expedite production - 177.0 units pending, 1.7% fulfilled",Customer satisfaction & revenue
+T6866845#004_R04_PNT,HIGH,DEMAND,"Expedite production - 326.0 units pending, 13.3% fulfilled",Customer satisfaction & revenue
+ALL,HIGH,BOTTLENECK,"Address 10 bottleneck - 102 critical jobs, avg 114.5 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 100 bottleneck - 154 critical jobs, avg 75.7 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 110 bottleneck - 225 critical jobs, avg 47.8 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 120 bottleneck - 45 critical jobs, avg 139.7 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 130 bottleneck - 15 critical jobs, avg 99.3 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 140 bottleneck - 29 critical jobs, avg 57.4 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 150 bottleneck - 7 critical jobs, avg 48.0 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 160 bottleneck - 3 critical jobs, avg 175.4 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 170 bottleneck - 15 critical jobs, avg 197.6 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 180 bottleneck - 2 critical jobs, avg 307.2 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 20 bottleneck - 35 critical jobs, avg 135.2 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 30 bottleneck - 38 critical jobs, avg 67.9 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 40 bottleneck - 64 critical jobs, avg 64.7 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 50 bottleneck - 73 critical jobs, avg 89.6 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 60 bottleneck - 168 critical jobs, avg 73.1 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 70 bottleneck - 294 critical jobs, avg 40.9 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 80 bottleneck - 595 critical jobs, avg 30.8 days aging",Overall throughput improvement
+ALL,HIGH,BOTTLENECK,"Address 90 bottleneck - 105 critical jobs, avg 132.9 days aging",Overall throughput improvement

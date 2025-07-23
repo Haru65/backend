@@ -1,0 +1,191 @@
+ITEM_1,ITEM_2,ITEM_1_PROCESSES,ITEM_2_PROCESSES,RESOURCE_CONFLICT,CAN_RUN_PARALLEL
+ABB436,TOS013,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","154, 193, 49.66, 2, 80, 9.58438",False
+ABB436,ABB373,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","110, 100, Ready for Machining (HM01), 80",False
+ABB436,ARE255,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","154, 17, 110, 193, 49.66, 2, 80, 9.58438",False
+ABB436,ARE330,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","154, 17, 110, 193, 49.66, 2, 80, 9.58438",False
+ABB436,HYO025,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","154, 17, 110, 100, 193, 49.66, 2, 80, 9.58438",False
+ABB436,HYO026,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","154, 17, 100, 193, 49.66, 2, 9.58438",False
+ABB436,SIE469,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 17, 110, 193, 49.66, 2, 80, 9.58438",False
+ABB436,ABB401,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80",Ready for Machining (OUT-DYNO),No,True
+ABB436,ABB402,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","2, 193, 49.66, 9.58438",False
+ABB436,ABB405,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80",Ready for Machining (OUT-DYNO),No,True
+ABB436,ABB420,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80",Ready for Machining (HM10),No,True
+ABB436,ABB429,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 17, 110, 193, 49.66, 2, 80, 9.58438",False
+ABB436,ABB435,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 17, 110, 193, 49.66, 2, 80, 9.58438",False
+ABB436,ABB439,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 17, 100, 193, 49.66, 9.58438",False
+ABB436,ABB447,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80",Ready for Machining (HM07),No,True
+ABB436,ABB448,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 17, 110, 193, 49.66, 80, 9.58438",False
+ABB436,ABB449,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80",Ready for Machining (OUT-EAGLE),No,True
+ABB436,ABB456,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 17, 110, 193, 49.66, 2, 80, 9.58438",False
+ABB436,ABB457,"154, 9.58438, 17, 110, 100, 193, 49.66, Ready for Machining (HM01), 2, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","17, 110, 100, 193, 49.66, 2, 9.58438",False
+TOS013,ABB373,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","20, 30, 60, 50, 70, 80",False
+TOS013,ARE255,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","154, 60, 50, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+TOS013,ARE330,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","154, 60, 1, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+TOS013,HYO025,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","20, 154, 60, 50, 1, 4, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 80, 9.58438",False
+TOS013,HYO026,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","20, 154, 30, 60, 50, 1, 4, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",False
+TOS013,SIE469,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 60, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+TOS013,ABB401,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),False
+TOS013,ABB402,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",False
+TOS013,ABB405,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),False
+TOS013,ABB420,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80",Ready for Machining (HM10),No,True
+TOS013,ABB429,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 60, 1, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+TOS013,ABB435,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+TOS013,ABB439,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 193, 49.66, 70, 9.58438",False
+TOS013,ABB447,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80",Ready for Machining (HM07),No,True
+TOS013,ABB448,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 60, 50, 193, 49.66, 4, 80, 9.58438",False
+TOS013,ABB449,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-EAGLE),No,True
+TOS013,ABB456,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 50, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+TOS013,ABB457,"20, 154, 30, 60, 50, 9.58438, 1, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","193, 49.66, 70, 2, 4, 9.58438",False
+ABB373,ARE255,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","60, 50, 110, 70, 80",False
+ABB373,ARE330,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","40, 60, 110, 70, 140, 80",False
+ABB373,HYO025,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","20, 40, 60, 50, 110, 100, 70, 80",False
+ABB373,HYO026,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","20, 30, 60, 50, 100, 70",False
+ABB373,SIE469,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","90, 40, 60, 110, 70, 80",False
+ABB373,ABB401,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80",Ready for Machining (OUT-DYNO),No,True
+ABB373,ABB402,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",70,False
+ABB373,ABB405,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80",Ready for Machining (OUT-DYNO),No,True
+ABB373,ABB420,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80",Ready for Machining (HM10),No,True
+ABB373,ABB429,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","40, 60, 130, 110, 70, 140, 80",False
+ABB373,ABB435,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","110, 80, 60, 70",False
+ABB373,ABB439,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","100, 70",False
+ABB373,ABB447,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80",Ready for Machining (HM07),No,True
+ABB373,ABB448,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","110, 80, 60, 50",False
+ABB373,ABB449,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80",Ready for Machining (OUT-EAGLE),No,True
+ABB373,ABB456,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","40, 60, 50, 110, 70, 80",False
+ABB373,ABB457,"90, 20, 40, 30, 50, 60, 130, 110, 100, Ready for Machining (HM01), 70, 140, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","90, 40, 110, 100, 70",False
+ARE255,ARE330,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","154, 60, 17, 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+ARE255,HYO025,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","154, 60, 50, 17, 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+ARE255,HYO026,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","154, 60, 50, 17, 4, 193, 49.66, 70, 2, 9.58438",False
+ARE255,SIE469,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 60, 17, 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+ARE255,ABB401,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80",Ready for Machining (OUT-DYNO),No,True
+ARE255,ABB402,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","193, 49.66, 70, 2, 9.58438",False
+ARE255,ABB405,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80",Ready for Machining (OUT-DYNO),No,True
+ARE255,ABB420,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80",Ready for Machining (HM10),No,True
+ARE255,ABB429,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 60, 17, Ready for Machining (HM02), 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+ARE255,ABB435,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+ARE255,ABB439,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 17, Ready for Machining (HM02), 193, 49.66, 70, 9.58438",False
+ARE255,ABB447,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80",Ready for Machining (HM07),No,True
+ARE255,ABB448,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 60, 50, 17, 110, 193, 49.66, 4, 80, 9.58438",False
+ARE255,ABB449,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80",Ready for Machining (OUT-EAGLE),No,True
+ARE255,ABB456,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 50, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+ARE255,ABB457,"154, 60, 50, 9.58438, 17, Ready for Machining (HM02), 110, 193, 49.66, 70, 2, 4, 10, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","17, 110, 4, 193, 49.66, 70, 2, 9.58438",False
+ARE330,HYO025,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","154, 40, 60, 17, 1, 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+ARE330,HYO026,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","154, 60, 17, 1, 4, 193, 49.66, 70, 2, 9.58438",False
+ARE330,SIE469,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 40, 60, 17, 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+ARE330,ABB401,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80",Ready for Machining (OUT-DYNO),No,True
+ARE330,ABB402,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","193, 49.66, 70, 2, 9.58438",False
+ARE330,ABB405,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80",Ready for Machining (OUT-DYNO),No,True
+ARE330,ABB420,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80",Ready for Machining (HM10),No,True
+ARE330,ABB429,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 80, 40, 60, 17, 1, 110, 4, 193, 49.66, 70, 2, 140, 9.58438",False
+ARE330,ABB435,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+ARE330,ABB439,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 17, 193, 49.66, 70, 9.58438",False
+ARE330,ABB447,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80",Ready for Machining (HM07),No,True
+ARE330,ABB448,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 60, 17, 110, 193, 49.66, 4, 80, 9.58438",False
+ARE330,ABB449,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80",Ready for Machining (OUT-EAGLE),No,True
+ARE330,ABB456,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 40, 60, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+ARE330,ABB457,"154, 40, Ready for Machining (HM05), 60, 9.58438, 17, 1, 110, 193, 49.66, 70, 2, 4, 140, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","40, 17, 110, 4, 193, 49.66, 70, 2, 9.58438",False
+HYO025,HYO026,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","20, 154, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 4, 193, 49.66, 70, 2, 9.58438",False
+HYO025,SIE469,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 40, 60, 17, 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+HYO025,ABB401,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),False
+HYO025,ABB402,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",False
+HYO025,ABB405,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),False
+HYO025,ABB420,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80",Ready for Machining (HM10),No,True
+HYO025,ABB429,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 40, 60, 1, 17, 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+HYO025,ABB435,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+HYO025,ABB439,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 17, 100, 193, 49.66, 70, 9.58438",False
+HYO025,ABB447,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80",Ready for Machining (HM07),No,True
+HYO025,ABB448,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 60, 50, 17, 110, 193, 49.66, 4, 80, 9.58438",False
+HYO025,ABB449,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-EAGLE),No,True
+HYO025,ABB456,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 40, 60, 50, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+HYO025,ABB457,"20, 154, 40, 60, 50, 9.58438, 1, 17, 100, Ready for Machining (OUT-DYNO), 110, 193, 49.66, 70, 2, 4, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","40, 17, 110, 100, 4, 193, 49.66, 70, 2, 9.58438",False
+HYO026,SIE469,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 60, 17, 4, 193, 49.66, 70, 2, 9.58438",False
+HYO026,ABB401,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438",Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),False
+HYO026,ABB402,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",False
+HYO026,ABB405,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438",Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),False
+HYO026,ABB420,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438",Ready for Machining (HM10),No,True
+HYO026,ABB429,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 60, 17, 1, 4, 193, 49.66, 70, 2, 9.58438",False
+HYO026,ABB435,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 17, 193, 49.66, 70, 2, 4, 9.58438",False
+HYO026,ABB439,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 17, 100, 193, 49.66, 70, 9.58438",False
+HYO026,ABB447,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438",Ready for Machining (HM07),No,True
+HYO026,ABB448,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 60, 50, 17, 193, 49.66, 4, 9.58438",False
+HYO026,ABB449,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438",Ready for Machining (OUT-EAGLE),No,True
+HYO026,ABB456,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 50, 17, 193, 49.66, 70, 2, 4, 9.58438",False
+HYO026,ABB457,"20, 154, 30, 60, 50, 1, 17, 100, Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 4, 9.58438","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","17, 100, 4, 193, 49.66, 70, 2, 9.58438",False
+SIE469,ABB401,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-DYNO),No,True
+SIE469,ABB402,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","193, 49.66, 70, 2, 9.58438",False
+SIE469,ABB405,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-DYNO),No,True
+SIE469,ABB420,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80",Ready for Machining (HM10),No,True
+SIE469,ABB429,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 40, 60, 17, 110, 4, 193, 49.66, 70, 2, 80, 9.58438",False
+SIE469,ABB435,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+SIE469,ABB439,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 17, 193, 49.66, 70, 9.58438",False
+SIE469,ABB447,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80",Ready for Machining (HM07),No,True
+SIE469,ABB448,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 60, 17, 110, 193, 49.66, 4, 80, 9.58438",False
+SIE469,ABB449,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80",Ready for Machining (OUT-EAGLE),Ready for Machining (OUT-EAGLE),False
+SIE469,ABB456,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 40, 60, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+SIE469,ABB457,"90, 154, 40, 60, 9.58438, 17, 110, Ready for Machining (OUT-EAGLE), 193, 49.66, 70, 2, 4, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","90, 40, 17, 110, 4, 193, 49.66, 70, 2, 9.58438",False
+ABB401,ABB402,Ready for Machining (OUT-DYNO),"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",Ready for Machining (OUT-DYNO),False
+ABB401,ABB405,Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),False
+ABB401,ABB420,Ready for Machining (OUT-DYNO),Ready for Machining (HM10),No,True
+ABB401,ABB429,Ready for Machining (OUT-DYNO),"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80",No,True
+ABB401,ABB435,Ready for Machining (OUT-DYNO),"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",No,True
+ABB401,ABB439,Ready for Machining (OUT-DYNO),"154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438",No,True
+ABB401,ABB447,Ready for Machining (OUT-DYNO),Ready for Machining (HM07),No,True
+ABB401,ABB448,Ready for Machining (OUT-DYNO),"154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80",No,True
+ABB401,ABB449,Ready for Machining (OUT-DYNO),Ready for Machining (OUT-EAGLE),No,True
+ABB401,ABB456,Ready for Machining (OUT-DYNO),"154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",No,True
+ABB401,ABB457,Ready for Machining (OUT-DYNO),"90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438",No,True
+ABB402,ABB405,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",Ready for Machining (OUT-DYNO),Ready for Machining (OUT-DYNO),False
+ABB402,ABB420,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",Ready for Machining (HM10),No,True
+ABB402,ABB429,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","193, 49.66, 70, 2, 9.58438",False
+ABB402,ABB435,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","193, 49.66, 70, 2, 9.58438",False
+ABB402,ABB439,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","9.58438, 193, 49.66, 70",False
+ABB402,ABB447,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",Ready for Machining (HM07),No,True
+ABB402,ABB448,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","193, 49.66, 9.58438",False
+ABB402,ABB449,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438",Ready for Machining (OUT-EAGLE),No,True
+ABB402,ABB456,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","193, 49.66, 70, 2, 9.58438",False
+ABB402,ABB457,"Ready for Machining (OUT-DYNO), 193, 49.66, 70, 2, 9.58438","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","193, 49.66, 70, 2, 9.58438",False
+ABB405,ABB420,Ready for Machining (OUT-DYNO),Ready for Machining (HM10),No,True
+ABB405,ABB429,Ready for Machining (OUT-DYNO),"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80",No,True
+ABB405,ABB435,Ready for Machining (OUT-DYNO),"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",No,True
+ABB405,ABB439,Ready for Machining (OUT-DYNO),"154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438",No,True
+ABB405,ABB447,Ready for Machining (OUT-DYNO),Ready for Machining (HM07),No,True
+ABB405,ABB448,Ready for Machining (OUT-DYNO),"154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80",No,True
+ABB405,ABB449,Ready for Machining (OUT-DYNO),Ready for Machining (OUT-EAGLE),No,True
+ABB405,ABB456,Ready for Machining (OUT-DYNO),"154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",No,True
+ABB405,ABB457,Ready for Machining (OUT-DYNO),"90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438",No,True
+ABB420,ABB429,Ready for Machining (HM10),"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80",No,True
+ABB420,ABB435,Ready for Machining (HM10),"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",No,True
+ABB420,ABB439,Ready for Machining (HM10),"154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438",No,True
+ABB420,ABB447,Ready for Machining (HM10),Ready for Machining (HM07),No,True
+ABB420,ABB448,Ready for Machining (HM10),"154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80",Ready for Machining (HM10),False
+ABB420,ABB449,Ready for Machining (HM10),Ready for Machining (OUT-EAGLE),No,True
+ABB420,ABB456,Ready for Machining (HM10),"154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",No,True
+ABB420,ABB457,Ready for Machining (HM10),"90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438",No,True
+ABB429,ABB435,"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+ABB429,ABB439,"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 17, Ready for Machining (HM02), 193, 49.66, 70, 9.58438",False
+ABB429,ABB447,"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80",Ready for Machining (HM07),No,True
+ABB429,ABB448,"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 60, 17, 110, 193, 49.66, 4, 80, 9.58438",False
+ABB429,ABB449,"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80",Ready for Machining (OUT-EAGLE),No,True
+ABB429,ABB456,"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 40, 60, 17, 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+ABB429,ABB457,"154, 40, 60, 140, 9.58438, 1, Ready for Machining (HM02), 17, 130, 110, 193, 49.66, 70, 2, 4, 120, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","40, 17, 110, 4, 193, 49.66, 70, 2, 9.58438",False
+ABB435,ABB439,"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 17, 193, 49.66, 70, 9.58438",False
+ABB435,ABB447,"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",Ready for Machining (HM07),Ready for Machining (HM07),False
+ABB435,ABB448,"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 60, 17, 110, 193, 49.66, 4, 80, 9.58438",False
+ABB435,ABB449,"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",Ready for Machining (OUT-EAGLE),No,True
+ABB435,ABB456,"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 17, Ready for Machining (HM07), 110, 193, 49.66, 70, 2, 4, 80, 9.58438",False
+ABB435,ABB457,"154, 60, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","17, 110, 4, 193, 49.66, 70, 2, 9.58438",False
+ABB439,ABB447,"154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438",Ready for Machining (HM07),No,True
+ABB439,ABB448,"154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 17, 193, 49.66, 9.58438",False
+ABB439,ABB449,"154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438",Ready for Machining (OUT-EAGLE),No,True
+ABB439,ABB456,"154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 17, 193, 49.66, 70, 9.58438",False
+ABB439,ABB457,"154, 17, Ready for Machining (HM02), 100, 193, 49.66, 70, 9.58438","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","17, 100, 193, 49.66, 70, 9.58438",False
+ABB447,ABB448,Ready for Machining (HM07),"154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80",No,True
+ABB447,ABB449,Ready for Machining (HM07),Ready for Machining (OUT-EAGLE),No,True
+ABB447,ABB456,Ready for Machining (HM07),"154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",Ready for Machining (HM07),False
+ABB447,ABB457,Ready for Machining (HM07),"90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438",No,True
+ABB448,ABB449,"154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80",Ready for Machining (OUT-EAGLE),No,True
+ABB448,ABB456,"154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","154, 60, 50, 17, 110, 193, 49.66, 4, 80, 9.58438",False
+ABB448,ABB457,"154, 60, 50, 9.58438, 17, Ready for Machining (HM10), 110, 193, 49.66, 4, 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","17, 110, 193, 49.66, 4, 9.58438",False
+ABB449,ABB456,Ready for Machining (OUT-EAGLE),"154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80",No,True
+ABB449,ABB457,Ready for Machining (OUT-EAGLE),"90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438",No,True
+ABB456,ABB457,"154, 40, 60, 50, 9.58438, 17, 110, 4, 193, 49.66, 70, 2, Ready for Machining (HM07), 80","90, 40, Ready for Machining (SANPOWER), 17, 110, 100, 193, 49.66, 70, 2, 4, 9.58438","40, 17, 110, 4, 193, 49.66, 70, 2, 9.58438",False

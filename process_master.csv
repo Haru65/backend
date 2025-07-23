@@ -1,0 +1,73 @@
+PROCESS_CODE,PROCESS_FULL_NAME,PROCESS_OWNER,CAN_PARALLELIZE
+PATA,PATTERN PREPARATION,Mr. Amol Saste,True
+MOULD,MOLDING,Mr. Viraj Manjarekar,False
+CICPR,CIC FOR CASTING POURING,Mr. Mahesh Deshmukh,False
+POUR,POURING ,Mr. Viraj Manjarekar,False
+K_D,KNOCK + DECORE,Mr. Viraj Manjarekar,False
+KDPR,KNOCK + DECORE + PRIMARY INSPECTION,Mr. Viraj Manjarekar,True
+K_D_C,KNOCK + DECORE + CUTTING,Mr. Viraj Manjarekar,True
+CICST,STAMP TRANSFER,Mr. Mahesh Deshmukh,False
+CUTT,CUTTING,Mr. Viraj Manjarekar,True
+SANDB,SAND BURNING,Mr. Pravin Londhe,False
+ABRPR,ABRASIVE BLASTING PRIMARY,Mr. Pravin Londhe,False
+SHOTP,SHOT BLASTING-PRIMARY,Mr. Pravin Londhe,False
+VIZPR,VISUAL INSPECTION - PRIMARY,Mr. Pravin Londhe,True
+X-RAY,X-RAY TEST,Mr. Jalinder Sonwane,True
+FETT,FETTLING,Mr. Pravin Londhe,False
+BENDR,BEND REWORK,Mr. Pravin Londhe,False
+VIZIN,VISUAL INSPECTION- IN PROCESS,Mr. Pravin Londhe,True
+CICHT,CIC FOR CASTING HEAT TREATMENT INSPECTION,Mr. Mahesh Deshmukh,False
+HEAT,HEAT TREATMENT,Mr. Pravin Londhe,False
+CICXR,CIC FOR X-RAY,Mr. Mahesh Deshmukh,False
+SHOT,SHOT BLASTING,Mr. Pravin Londhe,False
+SHOTF,SHOT BLASTING-FINAL,Mr. Pravin Londhe,False
+3DSCN,3DSCAN,Mr. Amol Saste,False
+ABRFI,ABRASIVE BLASTING FINAL,Mr. Pravin Londhe,False
+SURFI,SHOT BLASTING-FINAL INSPECTION,Mr. Pravin Londhe,True
+FETRW,REWORK FETTLING(AFTER SB),Mr. Pravin Londhe,False
+VIZFI,VISUAL INSPECTION - FINAL,Mr. Chetan Shinde,True
+CICCT,CIC FOR CASTING FINAL INSPECTION,Mr. Mahesh Deshmukh,True
+T2M,TRANSFER TO MACHINING,Mr. Chetan Shinde,True
+RFM,READY FOR MACHINING,Mr. Sainath Ukirde,True
+MACH1,OP10 MACHINING,Mr. Sainath Ukirde,True
+CMM,CMM INSPECTION,Mr. Sunil(CMM Supervisor),True
+MACH2,OP20 MACHINING,Mr. Sainath Ukirde,True
+MACH3,OP30 MACHINING,Mr. Sainath Ukirde,True
+MACH4,OP40 MACHINING,Mr. Sainath Ukirde,True
+MACH5,OP50 MACHINING,Mr. Sainath Ukirde,True
+JIG1,JIG1,Mr. Sainath Ukirde,True
+JIG2,JIG2,Mr. Sainath Ukirde,True
+JIG3,JIG3,Mr. Sainath Ukirde,True
+JIG4,JIG4,Mr. Sainath Ukirde,True
+EXTED,OUTSOURCE MACHINING,Mr. Sandeep Rakh,True
+OUTSM,OUTSOURCE FOR MACHINING,Mr. Sandeep Rakh,True
+FINFT,FETTLING,Mr. Sainath Ukirde,False
+VIZMC,VISUAL INSPECTION,Mr. Prakash Jagtap,True
+BALNC,BALANCING OPERATION,Mr. Sandeep Rakh,False
+AIR,AIR,Mr. Sandeep Rakh,False
+WSHPL,Washing before leak test,Mr. Sandeep Rakh,True
+LEAKT,AIR PRESSURE & HELIUM LEAK TEST,Mr. Sandeep Rakh,True
+CICHY,CIC AFTER HYDO TEST,Mr. Sandeep Rakh,True
+FIN,FINAL INSPECTION,Mr. Prakash Jagtap,True
+VIZ,REWORK,Mr. Prakash Jagtap,False
+HYDRO,Hydro test,Mr.Navnath Kamble,True
+IMPRG,Impregnation,Mr. Umesh Ku Bisen,False
+LPT,DYE PENETRANT TEST,Mr. Jalinder Sonwane,True
+PAINT,MASKING AND PAINTING,Mr. Umesh Ku Bisen,True
+Q-PNT,PAINTING INSPECTION,Mr. Umesh Ku Bisen,True
+INSAS,INSERT ASSEMBLY,Mr.Navnath Kamble,True
+CICDP,CIC CLEARNCE AFTER DP TEST,Mr. Mahesh Deshmukh,True
+CICFI,CIC AFTER FINAL INSPECTION,Mr. Mahesh Deshmukh,True
+ASMB,GET012 ASSEMBLY,Mr.Navnath Kamble,True
+FINAS,Final Assembly,Mr.Navnath Kamble,True
+WSHPD,Washing before dispatch,Mr. Sandeep Rakh,False
+CIC,Customer inspection conformation,Mr. Prakash Jagtap,True
+DPS,DIGITAL PASSPORT SYSTEM,Mr. Prakash Jagtap,False
+PACK,PACKING,Mr. Anil Padhy,True
+RFD,READY FOR DISPATCH,Mr. Anil Padhy,False
+FAID,FAI DISPATCH,Mr. Mahesh Deshmukh,False
+SCONF,SALES CONFORAMTION,Mr. Tushar Ingawale,False
+Ware House,,,False
+T2M- RFM,,Mr. Shailesh Varpe,False
+FG - RFD,,Mr. Anil Padhy,False
+Customer Return,,Mr. Umesh Kumar,True
