@@ -277,7 +277,9 @@ def get_analysis_status():
         },
         "timestamp": datetime.now().isoformat()
     }
-
+@app.get("/health")
+def health_check():
+    return {"status": "healthy", "timestamp": datetime.now().isoformat()}
 @app.get("/")
 def root():
     """API Root"""
